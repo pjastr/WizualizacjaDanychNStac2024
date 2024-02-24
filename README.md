@@ -1,1 +1,1 @@
-# https-github.com-pjastr-WizualizacjaDanychNStac2024
+.
